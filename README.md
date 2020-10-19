@@ -8,7 +8,7 @@ This contains my personal information (CV, certifications, degrees, etc)
 - English Certification B1 (Sykes Academy) [Certification](certification/ArlynChavarriaJimenezb1.pdf)
 - English Certification B2 (Sykes Academy) [Certification](certification/ArlynChavarriaJimenezb2.pdf)
 - English Certification B2+ (Sykes Academy) [Certification](certification/ArlynChavarriaJimenezb2plus.pdf)
-- IT Essential Certification (UCR) [Certification](certification/ITE1IG1SC-III2020 2_firmado.pdf)
+- IT Essential Certification (UCR) [Certification](certification/ITE1IG1SC-III2020%202_firmado.pdf)
 - Office Applications (INA) [Certification](certification/AplicacionesOfimaticas.pdf)
 
 Others
