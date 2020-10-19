@@ -9,7 +9,7 @@ This contains my personal information (CV, certifications, degrees, etc)
 - English Certification B2 (Sykes Academy)
 - English Certification B2+ (Sykes Academy)
 - IT Essential Certification (UCR)
-- Office Applications (INA)
+- Office Applications (INA) [Certification](certifications/AplicacionesOfimaticas.pdf)
 
 Others
 - Assistant in Business Administration and HR support
