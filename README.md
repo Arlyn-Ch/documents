@@ -1,7 +1,7 @@
-# Documents
+# Documents (CV, certifications, degrees, etc)
 
-This contains my personal information (CV, certifications, degrees, etc)
 
+My personal information 
 - Resume 2020 [Certification](certification/ArlynchCV2020.pdf)
 - High School Degree [Certification](certification/Bachiller.pdf)
 - English Associated Degree for customer services (INA) [Certification](certification/EjecutivoInglesParaServicios.pdf)
