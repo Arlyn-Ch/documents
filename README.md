@@ -3,7 +3,7 @@
 This contains my personal information (CV, certifications, degrees, etc)
 
 - Resume 2020 [Certification](certification/ArlynchCV2020.pdf)
-- High School Degree
+- High School Degree [Certification](certification/Bachiller.pdf)
 - English Associated Degree for customer services (INA)
 - English Certification B1 (Sykes Academy) [Certification](certification/ArlynChavarriaJimenezb1.pdf)
 - English Certification B2 (Sykes Academy)
