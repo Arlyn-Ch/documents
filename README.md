@@ -12,5 +12,5 @@ This contains my personal information (CV, certifications, degrees, etc)
 - Office Applications (INA) [Certification](certification/AplicacionesOfimaticas.pdf)
 
 Others
-- Assistant in Business Administration and HR support
-- Food Handing Badge
+- Assistant in Business Administration and HR support [Certification](certification/AsistenteAdministracion.pdf)
+- Food Handing Badge [Certification] ()
