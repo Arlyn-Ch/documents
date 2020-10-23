@@ -4,7 +4,7 @@
 My personal information 
 - Resume 2020 [CV](cv/ArlynchCV2020.pdf)
 - High School Degree [Certification](certification/Bachiller.pdf)
-- English Associated Degree for customer services (INA) [Certification](certification/EjecutivoInglesParaServicios.pdf)
+- English Associated Degree for English customer services (INA) [Certification](certification/EjecutivoInglesParaServicios.pdf)
 - English Certification B1 (Sykes Academy) [Certification](certification/ArlynChavarriaJimenezb1.pdf)
 - English Certification B2 (Sykes Academy) [Certification](certification/ArlynChavarriaJimenezb2.pdf)
 - English Certification B2+ (Sykes Academy) [Certification](certification/ArlynChavarriaJimenezb2plus.pdf)
