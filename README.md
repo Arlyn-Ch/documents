@@ -2,7 +2,7 @@
 
 
 My personal information 
-- Resume 2021 [CV](cv/Curriculum_Arlyn_Chavarria_Jimenez_2021(1).pdf)
+- Resume 2021 [CV](cv/CV_arlyn_english_2022.pdf)
 - High School Degree [Certification](certification/Bachiller.pdf)
 - English Associated Degree for English customer services (INA) [Certification](certification/EjecutivoInglesParaServicios.pdf)
 - English Certification B1 (Sykes Academy) [Certification](certification/ArlynChavarriaJimenezb1.pdf)
